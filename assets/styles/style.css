@@ -11,14 +11,11 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
     font-weight: 600;
+    text-decoration: none;
 }
 
-.header-menu .main-menu {
-    display: flex;
-}
-
-.header-menu .main-menu a {
-    margin-left: 12px;
+.header-menu a {
+    color: black;
     text-decoration: none;
 }
 
@@ -44,9 +41,12 @@
     width: 600px;
     text-align: justify;
     font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    justify-content: space-between;
 }
 
 img {
+    position: static;
     width: 25%;
     height: auto;
     float: right;
