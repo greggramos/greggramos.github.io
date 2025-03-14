@@ -49,7 +49,7 @@
 //     n++;
 // }
 
-const body = document.body;
+// const body = document.body;
 // const div = document.createElement("div");
 // body.append(div);
 
@@ -60,14 +60,14 @@ const body = document.body;
 // strong.innerText = "Hello World!";
 // div.append(strong);
 
-const div = document.querySelector("div");
-const spanHi = document.querySelector("#hi");
-const spanWo = document.querySelector("#bye");
+// const div = document.querySelector("div");
+// const spanHi = document.querySelector("#hi");
+// const spanWo = document.querySelector("#bye");
 
-// spanWo.remove();
-// console.log(spanHi.getAttribute("title"));
+// // spanWo.remove();
+// // console.log(spanHi.getAttribute("title"));
 
-// console.log(spanHi.dataset);
+// // console.log(spanHi.dataset);
 
-spanHi.style.color = "red";
-spanWo.style.backgroundColor = "blue";
+// spanHi.style.color = "red";
+// spanWo.style.backgroundColor = "blue";
